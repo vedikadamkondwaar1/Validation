@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Validation</string>
+    <string name="nameerror">enter valid name</string>
+    <string name="emailerror">enter valid email</string>
+    <string name="passworderror">enter valid pass</string>
+    <string name="mobileerror">enter valid mo no</string>
+    <string name="invalidpass">not matched pass</string>
+
+</resources>
